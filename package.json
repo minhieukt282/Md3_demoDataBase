@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "qs": "^6.11.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "md3_demodatabase",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
